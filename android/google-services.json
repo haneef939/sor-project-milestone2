@@ -1,0 +1,78 @@
+{
+  "project_info": {
+    "project_number": "994429078702",
+    "project_id": "sorf-d2b6d",
+    "storage_bucket": "sorf-d2b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:994429078702:android:f9fa8bfe9a02a8786cb13f",
+        "android_client_info": {
+          "package_name": "com.spotonresponse.sorf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "994429078702-0jc3fq8fq2obsf3e8eev33voepu81s4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spotonresponse.sorf",
+            "certificate_hash": "04fc6c86d5763e9a1ade5f0e8d226efd90cdcabf"
+          }
+        },
+        {
+          "client_id": "994429078702-3cqg76bjt5jdn49rkfpmfmcl16v8ehrs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spotonresponse.sorf",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "994429078702-cvg12h9fi6eqe835iiush4p29p5ibdsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spotonresponse.sorf",
+            "certificate_hash": "7300990742887dd2caafda3675c6979675aac9b9"
+          }
+        },
+        {
+          "client_id": "994429078702-m1oi64s1gteo62lp2e4us2ren8t5d697.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.spotonresponse.sorf",
+            "certificate_hash": "7400990742887dd1caafda3575c6979675aac9b8"
+          }
+        },
+        {
+          "client_id": "994429078702-p3t6mum6se9vv9psccnhi76r9l5j90fv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkHEP_Ujma5Uy05Z1kcC7uXKx0AkrVVrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "994429078702-p3t6mum6se9vv9psccnhi76r9l5j90fv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "994429078702-8rik16n9h6dtu3f0fn9lim9ckkga8glh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spotonresponse.sorf"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

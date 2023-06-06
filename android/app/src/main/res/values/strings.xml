@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">SOR</string>
+<string name="facebook_app_id">2231756097030532</string>
+<string name="fb_login_protocol_scheme">fb2231756097030532</string>
+<string name="facebook_client_token">cb6bed06841c0c540ded681c7ac35b9b</string>
+</resources>
